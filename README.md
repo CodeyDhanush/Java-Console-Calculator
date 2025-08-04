@@ -18,3 +18,7 @@ This is a simple command-line based calculator application written in Java. It p
 4. Compile the program:
    ```bash
    javac Task1Program.java
+   java Task1Program
+
+   
+   

@@ -1,4 +1,4 @@
-# Java Calculator Program :-
+# Java Console Calculator :-
 
 ##  Description :
 This is a simple command-line based calculator application written in Java. It performs basic arithmetic operations including addition, subtraction, multiplication, and division. The program runs in a loop and continues to process user input until the user chooses to exit.

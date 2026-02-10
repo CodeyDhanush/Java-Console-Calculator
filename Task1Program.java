@@ -17,7 +17,7 @@ public class Task1Program {
             System.out.println("Enter the 1st number:");
             num1 = sc.nextDouble();
 
-            System.out.println("Enter the operator (+, -, *, /):");
+            System.out.println("Enter the operator (+, -, *,/):");
             oper = sc.next().charAt(0);
 
             System.out.println("Enter the 2nd number:");
@@ -63,3 +63,4 @@ public class Task1Program {
         sc.close();
     }
 }
+

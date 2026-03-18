@@ -6,7 +6,7 @@ public class Task1Program {
         // Variable type declaration
 
         double num1, num2, result;
-        char oper;
+        char oper; 
         String choice;
         Scanner sc = new Scanner(System.in);
 
